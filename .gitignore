@@ -1,0 +1,5 @@
+# Cache objects
+pawn_cache/
+
+# For San Andreas Multi Player
+*.pwn
